@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+   
+body{
+    background-color: rgb(174, 187, 198);
+}
+.container{
+    width: 40%;
+    height: 300px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 6%;
+    border-radius: 40px;
+    background-color: rgb(131, 157, 176);
+    border: 5px solid rgb(60, 27, 138);
+}
+.navbar{
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 24px;
+    height: 70px;
+}
+p{
+    margin: 10px;
+    font-size: large;
+}
+#first{
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+background-color: rgb(81, 76, 76);
+}
+#second{
+    color: white;
+    font-size: 18px;
+    padding: 10px;
+background-color: rgb(81, 76, 76);
+}
+button{
+    font-size: 20px;
+    padding: 10px;
+    width: 110px;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    border: 5px solid rgb(60, 27, 138);
+}
+button:hover{
+    background-color: rgb(130, 130, 211);
+}
+#answer{
+    padding: 10px;
+    background-color: rgb(95, 97, 104);
+    border: solid black;
+    color: white;
+    font-size: 18px;
+}
